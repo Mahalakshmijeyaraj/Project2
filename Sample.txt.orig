@@ -1,6 +1,8 @@
 abcd
-<<<<<<< HEAD
+<<<<<<< Updated upstream
 Change by Dev2
-=======
 Change by Dev1
->>>>>>> 95445ead6530b0cd478baee715c4fa96c05955da
+=======
+stash comments
+stash values
+>>>>>>> Stashed changes

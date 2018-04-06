@@ -1,3 +1,8 @@
 abcd
+<<<<<<< Updated upstream
 Change by Dev2
 Change by Dev1
+=======
+>>>>>>> Stashed changes
+stash comments
+stash values
